@@ -130,7 +130,7 @@ section div p {
 
 .projetos h2 {
     color: white;
-    font-size: 75px;
+    font-size: 45px;
     text-align: center;
     background-color: #000000;
 }
@@ -146,9 +146,6 @@ section div p {
     text-align: center;
 }
 
-.card img {
-    height: 100px;
-}
 
 .card h5 {
     color: white;
@@ -243,6 +240,7 @@ footer p {
         
         color: #ffff;    
         display: inline-flex;
+        margin-top: 1px;
     }
     .card-projetos {
         background-color: #000000;
@@ -298,7 +296,7 @@ footer p {
         color: #ffff;
         font-size: 30px;
         font-weight: 300;
-        margin-top: 20px;
+        margin-top: 140px;
         margin-left: 20vw;
     }
     
